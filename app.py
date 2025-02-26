@@ -1,3 +1,14 @@
+"""
+Author Name : Rahul R
+Date : 26/02/2025
+Version : 1.0
+
+Features to be implemented :
+1. User can upload the work done in the day.
+2. User can mail directly to the manager.
+
+"""
+
 import streamlit as st
 from ui.sidebar import render_sidebar
 from ui.main_ui import render_main_ui, render_preview
