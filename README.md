@@ -23,8 +23,8 @@ A streamlined Streamlit application for generating professional timesheets with 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/timesheet-generator.git
-   cd timesheet-generator
+   git clone https://github.com/feelthevenom/Report-Generator-using-LLM
+   cd Report-Generator-using-LLM
    ```
 
 2. Create a virtual environment:
